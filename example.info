@@ -1,0 +1,6 @@
+name = Example
+description = Example module using druvel micro-framework
+package = Sindria Inc
+core = 7.x
+files[] = example.install
+files[] = example.module
